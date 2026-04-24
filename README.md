@@ -38,9 +38,9 @@ A simple REST API built using **Spring Boot** and **MySQL** to manage student re
 
 ## 🧪 Sample Data Inserted Automatically
 
-16 student records are auto-inserted using `CommandLineRunner` when the app starts.
+## 🧪 Sample Data Inserted Automatically
 
----
+Sample student records are automatically inserted using CommandLineRunner during application startup to simulate real-world data and test API performance.
 
 ## 🖥️ How to Run the Project
 
