@@ -46,4 +46,4 @@ A simple REST API built using **Spring Boot** and **MySQL** to manage student re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nandita2904/Student_API.git
+git clone https://github.com/Kavy-git/student-management-api.git
