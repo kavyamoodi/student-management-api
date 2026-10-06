@@ -1,4 +1,4 @@
-# 🎓 Student Management API
+# Student Management API
 
 ### RESTful Student Management System using Spring Boot & MySQL
 
